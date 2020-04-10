@@ -1,0 +1,64 @@
+#navbar{
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: black;
+    position: relative;
+    background-origin: padding-box;
+}
+table {
+    text-align: center;
+}
+.nav-item:hover{
+    background-color: rgb(95, 180, 70);
+}
+#navbarNav{
+    float:right;
+}
+u{color: white;
+    
+}
+.list-group-item:hover:hover{
+    background-color: rgb(94, 75, 75);
+    color: yellow;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+a.list-group-item{
+    background-color: lavenderblush;
+    font-weight: bold;
+    font-size-adjust: initial;
+}
+body{
+
+    background-image: url("./sunset_with_friends-5120x2880.jpg");
+    background-size: cover;
+}
+h3{
+    color: lavenderblush;
+}
+p{
+    color: white;
+    font-size: medium;
+}
+h2{
+    color: darkgray;
+}
+
+
+.nav-item:hover{
+    background-color: red;
+
+}
+
+
+    #fullpage{
+        margin-left: 10%;
+        margin-right:10%;
+    
+    }
+body{
+    background-image: url("./sunset_with_friends-5120x2880.jpg");
+    background-size: cover;
+}
+

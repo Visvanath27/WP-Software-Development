@@ -1,0 +1,22 @@
+#navbar{
+    font-weight: bolder;
+    font-size: x-large;
+    background-color: black;
+    position: relative;
+    background-origin: padding-box;
+}
+h2{
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+
+    background-image: url("./sunset_with_friends-5120x2880.jpg");
+    background-size: cover;
+}
+h1{
+    color: lavenderblush;
+}
