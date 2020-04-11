@@ -1,0 +1,53 @@
+$fontsize :15px;
+
+#navbar{
+    font-weight: bolder;
+    font-size: $fontsize;
+    background-color: black;
+    position: relative ;
+    border-radius: 30px;
+    background-origin: padding-box;
+}
+a.list-group-item:hover{
+    background-color: rgb(73, 23, 23);
+    color: yellow;
+    font-weight: bolder;
+    font-size: larger;
+}
+u{
+    color: white;
+}
+a.list-group-item{
+    background-color: lavenderblush;
+    font-weight: bold;
+    font-size-adjust: initial;
+}
+.nav-item:hover{
+    background-color: red;}
+#navbarNav{
+    float:right;
+}
+header{
+    background-image: url("./sunset_with_friends-5120x2880.jpg");
+    background-size: cover;
+}
+#tws{
+    color:navy;
+    background-color:lightgray;
+    border-radius: 10px;
+    padding-left:5%;
+    padding-right:5%;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size:$fontsize;
+}
+#fullpage{
+    margin-left: 10%;
+    margin-right:10%;
+}
+h2{
+    margin-top:5%;
+}
+table{
+    text-align: center;
+}
